@@ -1,0 +1,22 @@
+1	First name: John	Last name: Smith	E-mail: John1989@gmail.com	Age: 20	Grades: {88, 79, 59}
+2	First name: Suzan	Last name: Erickson	E-mail: Erickson_1990@gmailcom	Age: 19	Grades: {91, 72, 85}
+3	First name: Jack	Last name: Napoli	E-mail: The_lawyer99yahoo.com	Age: 19	Grades: {85, 84, 87}
+4	First name: Erin	Last name: Black	E-mail: Erin.black@comcast.net	Age: 22	Grades: {91, 98, 82}
+5	First name: Matt	Last name: Joslen	E-mail: mattjoslen@gmail.com	Age: 23	Grades: {92, 95, 98}
+
+INVALID E-MAILS:
+Erickson_1990@gmailcom
+The_lawyer99yahoo.com
+
+Student ID 1 - Average Grade: 75.3
+Student ID 2 - Average Grade: 82.7
+Student ID 3 - Average Grade: 85.3
+Student ID 4 - Average Grade: 90.3
+Student ID 5 - Average Grade: 95.0
+
+Student ID 3 has been removed.
+
+1	First name: John	Last name: Smith	E-mail: John1989@gmail.com	Age: 20	Grades: {88, 79, 59}
+2	First name: Suzan	Last name: Erickson	E-mail: Erickson_1990@gmailcom	Age: 19	Grades: {91, 72, 85}
+4	First name: Erin	Last name: Black	E-mail: Erin.black@comcast.net	Age: 22	Grades: {91, 98, 82}
+5	First name: Matt	Last name: Joslen	E-mail: mattjoslen@gmail.com	Age: 23	Grades: {92, 95, 98}
